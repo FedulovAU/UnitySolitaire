@@ -2,5 +2,9 @@ ManifestFileVersion: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: cards_and_commons
+      Name: bluebutton
+      Dependencies:
+        Dependency_0: permanent-assets
+    Info_1:
+      Name: permanent-assets
       Dependencies: {}

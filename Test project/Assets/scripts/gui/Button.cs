@@ -2,12 +2,12 @@
 using System.Collections;
 using App;
 
-public class Button : ExtendedMono
+public class Button : MonoBehaviour
 {
 
     public Transform pressed;
     public Transform released;
-    public AppEvents eventOnTriggered;
+    public event EventCallback triggered;
 
     public string pressedLabel;
     public string releasedLabel;
@@ -62,8 +62,10 @@ public class Button : ExtendedMono
             isPressed = false;
             setState();
 
-
-            dispatchEvent(eventOnTriggered, new CommonEvent(transform));
+            if (triggered != null)
+            {
+                triggered(transform);
+            }
 
 
         }

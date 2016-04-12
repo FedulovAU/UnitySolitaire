@@ -1,4 +1,5 @@
 ﻿using UnityEditor;
+using UnityEditor.Sprites;
 
 public class AssetBundleExporter {
 

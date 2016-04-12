@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 4014324753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f97fc3cf70ac8629280cc95cc671df7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/images/permanent-assets/top_bar/xp-widget-background.png
+- Assets/images/permanent-assets/close_buttons/close-button-green-out.png
+- Assets/images/permanent-assets/particles/energy-particle.png
+- Assets/images/permanent-assets/top_bar/energy-widget-highlight.png
+- Assets/images/permanent-assets/button-separator.png
+- Assets/images/permanent-assets/stars-holder.png
+- Assets/images/permanent-assets/particles/serpentine.png
+- Assets/images/permanent-assets/top_bar/energy-widget-mask.png
+- Assets/images/permanent-assets/popups/popup-green-background.png
+- Assets/images/permanent-assets/particles/halo.png
+- Assets/images/permanent-assets/popups/delimiter.png
+- Assets/images/permanent-assets/brick_buttons/button-orange-out.png
+- Assets/images/permanent-assets/particles/coin_glow.png
+- Assets/images/permanent-assets/facebook-logo.png
+- Assets/images/permanent-assets/user-avatar-frame.png
+- Assets/images/permanent-assets/popups/popup-purple-background.png
+- Assets/images/permanent-assets/popups/fb-decoration.png
+- Assets/images/permanent-assets/rounded_buttons/button-rounded-purple-disabled.png
+- Assets/images/permanent-assets/close_buttons/close-button-green-over.png
+- Assets/images/permanent-assets/popups/rematch-dialog-decoration.png
+- Assets/images/permanent-assets/particles/star.png
+- Assets/images/permanent-assets/star-full.png
+- Assets/images/permanent-assets/xp.png
+- Assets/images/permanent-assets/collection_reward_bg.png
+- Assets/images/permanent-assets/user-avatar-mask.png
+- Assets/images/permanent-assets/brick_buttons/large-brick-blue-button-pressed.png
+- Assets/images/permanent-assets/close_buttons/close-button-out.png
+- Assets/images/permanent-assets/share-facebook-icon.png
+- Assets/images/permanent-assets/star-empty.png
+- Assets/images/permanent-assets/close_buttons/blue-close-button-down.png
+- Assets/images/permanent-assets/rounded_buttons/button-rounded-purple-pressed.png
+- Assets/images/permanent-assets/brick_buttons/large-brick-blue-button-out.png
+- Assets/images/permanent-assets/top_bar/energy-widget-background.png
+- Assets/images/permanent-assets/brick_buttons/button-green-out.png
+- Assets/images/permanent-assets/particles/romb.png
+- Assets/images/permanent-assets/top_bar/top-bar-widget-button-down.png
+- Assets/images/permanent-assets/warning-icon.png
+- Assets/images/permanent-assets/top_bar/top-bar-widget-button-out.png
+- Assets/images/permanent-assets/brick_buttons/button-orange-pressed.png
+- Assets/images/permanent-assets/close_buttons/close-button-over.png
+- Assets/images/permanent-assets/brick_buttons/large-brick-purple-button-out.png
+- Assets/images/permanent-assets/particles/glare.png
+- Assets/images/permanent-assets/top_bar/top-bar-scalable.png
+- Assets/images/permanent-assets/share-checkbox-unchecked.png
+- Assets/images/permanent-assets/top_bar/xp-widget-mask.png
+- Assets/images/permanent-assets/brick_buttons/button-green-pressed.png
+- Assets/images/permanent-assets/rounded_buttons/button-rounded-purple-out.png
+- Assets/images/permanent-assets/timer_icon.png
+- Assets/images/permanent-assets/coin_single.png
+- Assets/images/permanent-assets/fb-disconnected-icon.png
+- Assets/images/permanent-assets/share-checkbox-checked.png
+- Assets/images/permanent-assets/brick_buttons/large-brick-purple-button-pressed.png
+- Assets/images/permanent-assets/tutorial-arrow-up.png
+- Assets/images/permanent-assets/close_buttons/blue-close-button-up.png
+Dependencies: []
