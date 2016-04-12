@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: db6323196a57bdb4bb569c9ce460b2e9
+timeCreated: 1460282890
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lt
+    21300002: lb
+    21300004: lm
+    21300006: rt
+    21300008: mt
+    21300010: mm
+    21300012: mb
+    21300014: rb
+    21300016: rm
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 43}
+        - {x: -41, y: 0}
+        - {x: -41, y: -43}
+        - {x: 41, y: -43}
+        - {x: 41, y: 43}
+    - name: lb
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 35}
+        - {x: -40, y: 15}
+        - {x: -27, y: -27}
+        - {x: 13, y: -35}
+        - {x: 41, y: -35}
+        - {x: 41, y: 35}
+    - name: lm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 50.5}
+        - {x: -41, y: -49.5}
+        - {x: -40, y: -50.5}
+        - {x: 41, y: -50.5}
+        - {x: 41, y: 50.5}
+    - name: rt
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 171
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 24}
+        - {x: -12, y: 43}
+        - {x: -40, y: 43}
+        - {x: -40, y: -43}
+        - {x: 40, y: -43}
+        - {x: 40, y: -27}
+        - {x: 37, y: -9}
+    - name: mt
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 171
+        width: 21
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mm
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 70
+        width: 21
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mb
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rb
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 35}
+        - {x: -40, y: -35}
+        - {x: -1, y: -35}
+        - {x: 35, y: -3}
+        - {x: 39, y: 28}
+        - {x: 39, y: 35}
+    - name: rm
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 70
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 50.5}
+        - {x: -40, y: -50.5}
+        - {x: 40, y: -50.5}
+        - {x: 40, y: 50.5}
+    outline: []
+  spritePackingTag: permanent-assets
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

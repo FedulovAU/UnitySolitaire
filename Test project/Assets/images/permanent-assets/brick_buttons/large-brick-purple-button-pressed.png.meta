@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: fe7a5e4f083a71e4f8c00901f974b7ab
+timeCreated: 1460283547
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lt
+    21300002: lb
+    21300004: lm
+    21300006: rt
+    21300008: mt
+    21300010: mm
+    21300012: mb
+    21300014: rb
+    21300016: large-brick-purple-button-pressed_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28.5}
+        - {x: -41, y: -7.5}
+        - {x: -41, y: -43.5}
+        - {x: 41, y: -43.5}
+        - {x: 41, y: 43.5}
+        - {x: 21, y: 43.5}
+        - {x: 3, y: 41.5}
+    - name: lb
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 34.5}
+        - {x: -40, y: -0.5}
+        - {x: 1, y: -34.5}
+        - {x: 41, y: -34.5}
+        - {x: 41, y: 34.5}
+    - name: lm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 50.5}
+        - {x: -41, y: -48.5}
+        - {x: -40, y: -50.5}
+        - {x: 41, y: -50.5}
+        - {x: 41, y: 50.5}
+    - name: rt
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 170
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 43.5}
+        - {x: -40.5, y: 43.5}
+        - {x: -40.5, y: -43.5}
+        - {x: 40.5, y: -43.5}
+        - {x: 40.5, y: -5.5}
+        - {x: 14.5, y: 38.5}
+    - name: mt
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 170
+        width: 29
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mm
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 69
+        width: 29
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mb
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rb
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 34.5}
+        - {x: -40.5, y: -34.5}
+        - {x: -9.5, y: -34.5}
+        - {x: 34.5, y: -14.5}
+        - {x: 39.5, y: 15.5}
+        - {x: 39.5, y: 34.5}
+    - name: large-brick-purple-button-pressed_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 69
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 50.5}
+        - {x: -40.5, y: -50.5}
+        - {x: 40.5, y: -50.5}
+        - {x: 40.5, y: 50.5}
+    outline: []
+  spritePackingTag: permanent-assets
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

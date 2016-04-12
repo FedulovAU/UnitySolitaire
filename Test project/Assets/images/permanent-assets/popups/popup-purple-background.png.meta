@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 4d879c963f679a44ba866b1793d56584
+timeCreated: 1460284113
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lt
+    21300002: lb
+    21300004: lm
+    21300006: rt
+    21300008: mt
+    21300010: mm
+    21300012: mb
+    21300014: rb
+    21300016: rm
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -3.5}
+        - {x: -27.5, y: -18.5}
+        - {x: 33.5, y: -18.5}
+        - {x: 33.5, y: 18.5}
+        - {x: 19.5, y: 18.5}
+        - {x: 0.5, y: 16.5}
+    - name: lb
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 48.5}
+        - {x: -33.5, y: -29.5}
+        - {x: 10.5, y: -48.5}
+        - {x: 33.5, y: -48.5}
+        - {x: 33.5, y: 48.5}
+    - name: lm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 17}
+        - {x: -30.5, y: 13}
+        - {x: -33.5, y: 0}
+        - {x: -33.5, y: -17}
+        - {x: 33.5, y: -17}
+        - {x: 33.5, y: 17}
+    - name: rt
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 131
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 18.5}
+        - {x: -33, y: -18.5}
+        - {x: 27, y: -18.5}
+        - {x: 23, y: -2.5}
+        - {x: -7, y: 18.5}
+    - name: mt
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 18.5}
+        - {x: -33, y: -18.5}
+        - {x: 33, y: -18.5}
+        - {x: 33, y: 18.5}
+    - name: mm
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 17}
+        - {x: -33, y: -17}
+        - {x: 33, y: -17}
+        - {x: 33, y: 17}
+    - name: mb
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 48.5}
+        - {x: -33, y: -48.5}
+        - {x: 33, y: -48.5}
+        - {x: 33, y: 48.5}
+    - name: rb
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 48.5}
+        - {x: -33, y: -48.5}
+        - {x: -6, y: -48.5}
+        - {x: 31, y: -34.5}
+        - {x: 33, y: -17.5}
+        - {x: 33, y: 48.5}
+    - name: rm
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 97
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 17}
+        - {x: -33, y: 17}
+        - {x: -33, y: -17}
+        - {x: 33, y: -17}
+        - {x: 33, y: -4}
+        - {x: 31, y: 10}
+    outline: []
+  spritePackingTag: permanent-assets
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

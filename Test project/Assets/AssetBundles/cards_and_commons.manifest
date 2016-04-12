@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3134836179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f6cb7d92ad4798220bfe63b34a6bb18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/atlasses/gameScreen/5-plus-button-out.png
+- Assets/atlasses/gameScreen/card-shade.png
+- Assets/atlasses/gameScreen/card-blank-background.png
+- Assets/atlasses/gameScreen/botticelli-shirt.png
+- Assets/atlasses/gameScreen/aztec-shirt.png
+Dependencies: []
