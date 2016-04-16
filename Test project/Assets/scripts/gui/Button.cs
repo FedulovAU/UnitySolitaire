@@ -1,13 +1,12 @@
 ﻿using UnityEngine;
-using System.Collections;
-using App;
+using System;
 
 public class Button : MonoBehaviour
 {
 
     public Transform pressed;
     public Transform released;
-    public event EventCallback triggered;
+    public event Action<Transform> Triggered;
 
     public string pressedLabel;
     public string releasedLabel;
@@ -62,9 +61,9 @@ public class Button : MonoBehaviour
             isPressed = false;
             setState();
 
-            if (triggered != null)
+            if (Triggered != null)
             {
-                triggered(transform);
+                Triggered(transform);
             }
 
 

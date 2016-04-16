@@ -51,7 +51,7 @@ TextureImporter:
   spriteSheet:
     sprites: []
     outline: []
-  spritePackingTag: intro-screen
+  spritePackingTag: login-screen
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -69,11 +69,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\scripts\Application.cs" />
     <Compile Include="Assets\scripts\AssetBunleLoader.cs" />
-    <Compile Include="Assets\scripts\Services.cs" />
+    <Compile Include="Assets\scripts\gui\Alignment.cs" />
     <Compile Include="Assets\scripts\gui\Button.cs" />
-    <Compile Include="Assets\scripts\pureCsharp\Services\ServiceLocator.cs" />
+    <Compile Include="Assets\scripts\utils\AssetLoader.cs" />
+    <Compile Include="Assets\scripts\utils\AssetManager.cs" />
+    <Compile Include="Assets\scripts\utils\AssetPromise.cs" />
+    <Compile Include="Assets\scripts\utils\TokenEnum.cs" />
+    <Compile Include="Assets\scripts\view\screen\Screen.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
